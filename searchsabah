@@ -1,0 +1,52 @@
+[
+
+{"type":"splashImage",
+"content":"https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+"spacing":1},
+
+{"type":"title",
+"content":"Welcome to the Land Below the Wind"},
+
+{"type":"spacing",
+"spacing":1},
+
+{"type":"text",
+"content":"<b>Wonders of Sabah, awaiting you to discover</b> Welcome to our online magazine dedicated to showcasing the beauty, culture, and charm of Sabah, the <i>Land Below the Wind</i>. From majestic mountains to pristine beaches, lush rainforests, and unique cultural experiences, our magazine offers an in-depth look at what makes this corner of Borneo so special.",
+"spacing":1},
+
+{"type":"title",
+"content":"About Us"},
+{"type":"text",
+"content":"At SearchSabah.com, we are passionate about celebrating the treasures of Sabah. Our mission is to inspire locals and travellers alike to explore and appreciate the incredible diversity this state has to offer. Each issue highlights unique destinations, hidden gems, and local stories, bringing you closer to the heart of Sabah.",
+"spacing":1},
+
+{"type":"title",
+"content":"Our Features"},
+{"type":"text",
+"content":"<li><b>Destination Highlights</b><li>: Uncover the beauty of Sabah’s iconic locations such as Mount Kinabalu, Sipadan Island, and the Sepilok Orangutan Rehabilitation Centre.<br><br><li><b>Local Culture and Heritage:</b>Dive into the rich traditions, music, dances, and festivals of Sabah’s indigenous communities.</li><br><br><li><b>Sabahan Delicacy:</b>Discover the culinary delights of Sabah, from seafood feasts to traditional dishes like <i>hinava and bambangan</i>.</li><br><br><li><b>Adventures and Activities:</b>Plan your next adventure with guides on hiking, diving, and wildlife spotting in Sabah’s diverse landscapes.</li>",
+"spacing":1},
+
+{"type":"title",
+"content":"Words by <b>SearchSabah.com</b>"},
+{"type":"text",
+"content":"<large>Get your first look at the relaunch issue of our Magazine, the magazine that cover all about Sabah.</large>",
+"spacing":1},
+
+{"type": "linkButton",
+"imageUrl": "https://telegra.ph/file/403110af2341dc7144d79.jpg",
+"text":"We’d love to hear what you think of the new magazine, or any suggestions you have for future stories. Drop us a line at xxx.com.<br<br>We’ve made all issue of SearchSabah Digital Magazine available to download here.",
+"targetUrl": "https://direct-page.com/#!",
+"color":"dark"},
+
+{"type":"title",
+"content":"Explore More"},
+{"type":"text",
+"content":"<large>Get your first look at the relaunch issue of our Magazine, the magazine that cover all about Sabah.</large><br><br><b>Plan Your Stay</b><br>We’ve partnered with local homestays and eco-lodges to help you find the perfect place to stay while you explore Sabah’s natural beauty.<br><br><b>Subscribe to Our Magazine</b><br>Stay updated with the latest features, travel guides, and cultural stories by subscribing to our monthly magazine. Delivered straight to your inbox, it’s your gateway to the Land Below the Wind.",
+"spacing":1},
+
+{"type":"title",
+"content":"Why choose Sabah?"},
+{"type":"text",
+"content":"<li><b>Breathtaking Landscapes</b>:From the towering peaks of Mount Kinabalu to the underwater wonders of Sipadan Island.</li><br><br><li><b>Cultural Richness:</b>Experience the harmonious blend of over 30 ethnic groups and their unique traditions.</li><br><br><li><b>Eco-Tourism Paradise:</b>Engage in sustainable travel while preserving the beauty of nature.</li>",
+"spacing":1},
+]
